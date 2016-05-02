@@ -1,28 +1,40 @@
-name: Revz1
-favicon: null
-layout_spectrum: 0.6562508700881153
-typography_spectrum: 0.4142007583286613
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9339109
+  brandStrength: 0.7757167
+  lightness: 0.5102605
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.2034662466030568
-  lightness: 0.5102605479769409
-  saturation: 0.9339108867570758
-  rhythmicContrast: 0.3380020500626415
-purpose: []
+  rhythmicContrast: 0.5986509
+typography_spectrum: 0.1273187
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4367622
+favicon: null
+name: Revz1
