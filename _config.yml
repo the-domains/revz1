@@ -1,7 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -20,21 +20,21 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.9339109
+  saturation: 0.6939292
   brandStrength: 0.7757167
-  lightness: 0.5102605
+  lightness: 0.5666105
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.5986509
+  rhythmicContrast: 0.4789207
 typography_spectrum: 0.1273187
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.4738617
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
 name: Revz1
