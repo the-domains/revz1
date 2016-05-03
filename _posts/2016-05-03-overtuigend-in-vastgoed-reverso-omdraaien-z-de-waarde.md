@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'OVERTUIG(EN)D IN VASTGOED Reverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! '
-datePublished: '2016-05-03T09:54:58.047Z'
-dateModified: '2016-05-03T09:54:46.239Z'
+description: 'OVERTUIG(EN)D IN VASTGOEDReverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! '
+datePublished: '2016-05-03T10:14:09.904Z'
+dateModified: '2016-05-03T10:10:11.223Z'
 title: ''
 author: []
 authors: []
@@ -16,9 +16,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-03-overtuigend-in-vastgoed-reverso-omdraaien-z-de-waarde.md
 published: true
+starred: true
 _type: Blurb
 
 ---
