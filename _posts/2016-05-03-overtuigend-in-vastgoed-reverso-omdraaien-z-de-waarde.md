@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T19:34:24.439Z'
-dateModified: '2016-05-03T19:34:20.673Z'
+datePublished: '2016-05-03T19:35:22.585Z'
+dateModified: '2016-05-03T19:34:42.341Z'
 title: '- Henry David Thoreau -'
 author:
   - name: ''
@@ -20,7 +20,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
