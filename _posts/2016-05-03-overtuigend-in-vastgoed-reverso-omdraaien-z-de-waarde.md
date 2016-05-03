@@ -2,12 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Reverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! '
-datePublished: '2016-05-03T12:58:02.729Z'
-dateModified: '2016-05-03T12:57:32.492Z'
+datePublished: '2016-05-03T16:54:55.330Z'
+dateModified: '2016-05-03T16:54:33.877Z'
 title: '"The world is but a canvas to our imagination"'
 author:
   - name: ''
@@ -24,10 +24,11 @@ starred: true
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed872823-b665-4095-b469-687f2a927013.jpg)
+
 # "The world is but a canvas to our imagination"
 
 ## - Henry David Thoreau -
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d373b6fa18c9e4f85e5c2c214941971d16a9f71e.jpg)
 
 _Reverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! _
 
