@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: 'Reverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! '
-datePublished: '2016-05-03T17:31:02.964Z'
-dateModified: '2016-05-03T17:30:53.514Z'
-title: ''
+description: ''
+datePublished: '2016-05-03T19:28:54.456Z'
+dateModified: '2016-05-03T19:28:25.450Z'
+title: '- Henry David Thoreau -'
 author:
   - name: ''
     url: ''
@@ -24,13 +24,13 @@ starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1e7d9d1-5d39-4f1c-b655-232307847962.jpg)
-
-# 
-
 # "The world is but a canvas to our imagination"
 
 ## - Henry David Thoreau -
+
+__
+
+__
 
 _Reverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! _
 
@@ -38,3 +38,5 @@ _Soms is de gebruiker ook eigenaar of vice versa maar zelfs als dat niet het gev
 
 **Na jarenlang in de commerciële ontwikkeling werkzaam geweest te zijn in 2006 zijn eigen bedrijf gestart met als doel om met groepen gelijk gestemden duurzame en mooie projecten te realiseren. Projecten die in kwaliteit, energiebesteding, uitstraling en kostenbeheersing boven het maaiveld uitsteken.**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01dfdb3f-5732-40bc-85b8-600c5182d6e9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf9b321-f9de-43d7-8ced-360cc69f80e1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff034822-636f-4d57-82bc-b554446b7ce9.jpg)
