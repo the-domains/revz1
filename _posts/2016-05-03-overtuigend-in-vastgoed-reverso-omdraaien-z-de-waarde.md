@@ -5,26 +5,28 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'OVERTUIG(EN)D IN VASTGOEDReverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! '
-datePublished: '2016-05-03T10:14:09.904Z'
-dateModified: '2016-05-03T10:10:11.223Z'
-title: ''
+description: '- Henry David Thoreau -'
+datePublished: '2016-05-03T10:27:09.812Z'
+dateModified: '2016-05-03T10:27:00.674Z'
+title: "'The world is but a canvas to our imagination'"
 author: []
+sourcePath: _posts/2016-05-03-overtuigend-in-vastgoed-reverso-omdraaien-z-de-waarde.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-05-03-overtuigend-in-vastgoed-reverso-omdraaien-z-de-waarde.md
-published: true
 starred: true
 _type: Blurb
 
 ---
-# REVERSO.Z
+## 'The world is but a canvas to our imagination'
 
-OVERTUIG(EN)D IN VASTGOED  
+- Henry David Thoreau -
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fb52c12-674d-495b-a063-331ad9fdc190.jpg)
+
 Reverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! 
 
 Soms is de gebruiker ook eigenaar of vice versa maar zelfs als dat niet het geval is dient de invloed van de gebruiker en bewoner groter te zijn dan slechts de keuze van afbouw.
