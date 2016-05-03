@@ -1,9 +1,7 @@
-favicon: null
 name: Revz1
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.92424
+typography_spectrum: 0.16108
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0.25
-  lightness: 0.2403035
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  brandStrength: 0.25
+  lightness: 0.2403035
+  saturation: 0.375
   rhythmicContrast: 0.25
-typography_spectrum: 0.16108
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.66527
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
