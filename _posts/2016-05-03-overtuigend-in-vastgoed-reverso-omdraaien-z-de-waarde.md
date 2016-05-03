@@ -2,14 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-03T11:49:51.497Z'
-dateModified: '2016-05-03T11:47:19.877Z'
+description: 'Reverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! '
+datePublished: '2016-05-03T12:58:02.729Z'
+dateModified: '2016-05-03T12:57:32.492Z'
 title: '"The world is but a canvas to our imagination"'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-03-overtuigend-in-vastgoed-reverso-omdraaien-z-de-waarde.md
 published: true
 authors: []
@@ -18,14 +20,14 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
 # "The world is but a canvas to our imagination"
 
 ## - Henry David Thoreau -
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88adf633-31a7-4071-9301-0d6cdc9dc03b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d373b6fa18c9e4f85e5c2c214941971d16a9f71e.jpg)
 
 _Reverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! _
 
