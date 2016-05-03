@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Reverso: (om)draaien, Z: de waarde(n) van alle partijen wegen mee! '
-datePublished: '2016-05-03T16:54:55.330Z'
-dateModified: '2016-05-03T16:54:33.877Z'
-title: '"The world is but a canvas to our imagination"'
+datePublished: '2016-05-03T17:31:02.964Z'
+dateModified: '2016-05-03T17:30:53.514Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -24,7 +24,9 @@ starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed872823-b665-4095-b469-687f2a927013.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1e7d9d1-5d39-4f1c-b655-232307847962.jpg)
+
+# 
 
 # "The world is but a canvas to our imagination"
 
