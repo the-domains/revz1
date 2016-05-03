@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: '- Henry David Thoreau -'
-datePublished: '2016-05-03T11:24:10.855Z'
-dateModified: '2016-05-03T11:23:56.605Z'
+datePublished: '2016-05-03T11:46:25.633Z'
+dateModified: '2016-05-03T11:30:55.543Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-overtuigend-in-vastgoed-reverso-omdraaien-z-de-waarde.md
@@ -22,7 +22,7 @@ starred: false
 _type: Blurb
 
 ---
-> The world is but a canvas to our imagination
+The world is but a canvas to our imagination
 
 - Henry David Thoreau -
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88adf633-31a7-4071-9301-0d6cdc9dc03b.jpg)
