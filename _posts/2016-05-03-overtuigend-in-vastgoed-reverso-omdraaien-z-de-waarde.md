@@ -6,20 +6,20 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T19:35:22.585Z'
-dateModified: '2016-05-03T19:34:42.341Z'
+datePublished: '2016-07-21T08:57:46.427Z'
+dateModified: '2016-07-21T08:56:27.909Z'
 title: '- Henry David Thoreau -'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-03-overtuigend-in-vastgoed-reverso-omdraaien-z-de-waarde.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
 starred: true
 _type: Blurb
 
