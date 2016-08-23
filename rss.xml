@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Revz1]]></title>
-        <description><![CDATA[Revz1]]></description>
+        <title><![CDATA[Basissite RZ]]></title>
+        <description><![CDATA[Basissite RZ]]></description>
         <link>https://thegrid.ai/revz1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 20:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 10:38:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/revz1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7030a8db-6160-48c6-afb6-e102e5773860.jpg" alt="Testen van nieuwe opmaak">]]></description>
             <link>https://thegrid.ai/revz1/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit-ae/index.html</link>
             <guid isPermaLink="false">bd76b7af-6aae-45c8-9c19-7f83cfac50e3</guid>
-            <pubDate>Wed, 04 May 2016 20:24:28 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2016 10:37:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
